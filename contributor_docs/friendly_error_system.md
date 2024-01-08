@@ -110,7 +110,7 @@ The [internationalization doc] has a step-by-step guide on adding and modifying 
 ## Understanding How FES Works
 In this section, we will give an overview of how FES generates and displays messages. For more detailed information on the FES functions, please see our [FES Reference + Dev Notes].
 
-[FES Reference + Dev Notes]: https://github.com/processing/p5.js/blob/main/contributor_docs/fes_reference_dev_notes.md
+[FES Reference + Dev Notes]: https://github.com/processing/p5.js/blob/main/contributor_docs/zh/fes_reference_dev_notes.md
 
 
 #### Overview
@@ -133,10 +133,10 @@ These functions are mainly responsible for catching errors and generating FES me
 
 For full reference, please see our [Dev Notes].
 
-[`_friendlyFileLoadError()`]: https://github.com/processing/p5.js/blob/main/contributor_docs/fes_reference_dev_notes.md#_friendlyfileloaderror
-[`_validateParameters()`]: https://github.com/processing/p5.js/blob/main/contributor_docs/fes_reference_dev_notes.md#validateparameters
-[`_fesErrorMontitor()`]: https://github.com/processing/p5.js/blob/main/contributor_docs/fes_reference_dev_notes.md#feserrormonitor
-[Dev Notes]: https://github.com/processing/p5.js/blob/main/contributor_docs/fes_reference_dev_notes.md
+[`_friendlyFileLoadError()`]: https://github.com/processing/p5.js/blob/main/contributor_docs/zh/fes_reference_dev_notes.md#_friendlyfileloaderror
+[`_validateParameters()`]: https://github.com/processing/p5.js/blob/main/contributor_docs/zh/fes_reference_dev_notes.md#validateparameters
+[`_fesErrorMontitor()`]: https://github.com/processing/p5.js/blob/main/contributor_docs/zh/fes_reference_dev_notes.md#feserrormonitor
+[Dev Notes]: https://github.com/processing/p5.js/blob/main/contributor_docs/zh/fes_reference_dev_notes.md
 
 
 #### FES Message Displayer
